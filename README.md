@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saroj kumar sah</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<img align="right"alt="coding"width="400"src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+![image](https://github.com/Sarojshah1/Sarojshah1/assets/87790861/47bd4bb7-b93d-4bdd-bc8f-1edc25a20163)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarojshah1&label=Profile%20views&color=0e75b6&style=flat" alt="sarojshah1" /> </p>
 
