@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saroj kumar sah</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img aligh="right" alt="coding" width="400" src="[[https://stock.adobe.com/images/software-developer-character-vector-programmer-develops-code-illustration-programmer-programming-soft-and-write-script/278374738](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarojshah1&label=Profile%20views&color=0e75b6&style=flat-square" alt="sarojshah1" /> </p>
 
