@@ -161,18 +161,23 @@ I'm a passionate **Flutter and MERN Stack Developer** from Nepal, dedicated to c
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=Mobile-Banking-App-using-Flutter&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Mobile Banking App" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=EMS-Event-Management-System--FINAL&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Event Management System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=skillwave-flutter-mobile-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Skillwave Flutter App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=blushstore&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Blushstore App" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=pharmacy&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Pharmacy Management" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=Event_planner&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Event Planner" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=Mobile-Banking-App-using-Flutter&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Mobile Banking App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=EMS-Event-Management-System--FINAL&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Event Management System" />
 </div>
 
 ---
 
 ## 📱 Mobile Development Projects
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=skillwave-flutter-mobile-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Skillwave Flutter App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=blushstore&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Blushstore App" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=Mobile-Banking-App-using-Flutter&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Mobile Banking App - Flutter" />
