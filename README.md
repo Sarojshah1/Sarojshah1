@@ -158,6 +158,59 @@ I'm a passionate **Flutter and MERN Stack Developer** from Nepal, dedicated to c
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=Mobile-Banking-App-using-Flutter&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Mobile Banking App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=EMS-Event-Management-System--FINAL&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Event Management System" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=pharmacy&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Pharmacy Management" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=Event_planner&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Event Planner" />
+</div>
+
+---
+
+## 📱 Mobile Development Projects
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=Mobile-Banking-App-using-Flutter&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Mobile Banking App - Flutter" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=EventManagementSyemtem&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Event Management System" />
+</div>
+
+---
+
+## 🌐 Web Development Projects
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=pharmacy&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Pharmacy Management System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=Event_planner&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Event Planner Web App" />
+</div>
+
+---
+
+## 🌟 Portfolio Website
+
+<div align="center">
+  <a href="https://sarojkumarsah-sarojshah1s-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=portfolio-website&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Portfolio Website" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
+
+---
+
 ## 📊 Detailed Analytics
 
 <div align="center">
