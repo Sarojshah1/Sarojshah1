@@ -189,8 +189,18 @@ I'm a passionate **Flutter and MERN Stack Developer** from Nepal, dedicated to c
 ## 🌐 Web Development Projects
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=web_api_developmen_skillwave_backend&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Skillwave Backend API" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=skillwave-web_project&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Skillwave Web Project" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=Study_sync_frontend&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Study Sync Frontend" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=Study_Sync&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Study Sync Backend" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=CareerVita-Job-Portal-&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="CareerVita Job Portal" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=pharmacy&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Pharmacy Management System" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarojshah1&repo=Event_planner&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="Event Planner Web App" />
 </div>
 
 ---
